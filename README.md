@@ -8,7 +8,7 @@
   - [Final Schematic](#final-schematic)
   - [Circuit Waveform](#circuit-waveform)
   - [Contributor](#contributor)
-  - [Acknowledgement](#acknowlegement)
+  - [Acknowledgement](#acknowledgement)
   - [References](#references)
 
 ## Abstract
